@@ -1,0 +1,12 @@
+.bg-custom{
+    background-color: #6b381c;
+}
+
+.navbar-brand{
+
+    font-size: 1.7rem;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: underline;
+
+}

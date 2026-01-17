@@ -1,0 +1,23 @@
+
+
+body {
+  background-color: rgb(0, 0, 0);
+  margin: 0;
+  padding: 0;
+  color: white;
+  background-image: url("../src/assets/backgorundapp.png");
+  font-family: "Macondo NO",cursive, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#root {
+  height: 100%;
+}
+.action-section {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
